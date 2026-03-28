@@ -122,11 +122,9 @@ O email quintinhaabc@gmail.com recebe diariamente emails de naturezas completame
 - **Necessidade adicional:** sistema mais eficiente para lançar apelos de angariação de fundos quando há contas grandes a pagar
 
 **Bloqueio médico / urgências:**
-- A única pessoa com poder de decisão para levar um animal a uma urgência é a presidente
-- Hospitais e clínicas exigem frequentemente um email de autorização da associação para o voluntário poder dar entrada do animal
+- A única pessoa com poder de decisão formal para levar um animal a uma urgência é a presidente
 - Na prática, a pessoa que desbloqueia situações urgentes é a **Inês** — colega que acaba por gerir as urgências mas sem poder de decisão formal
-- Isto cria uma situação de risco: Inês funciona como proxy da presidente mas sem autoridade legal para o fazer
-- Quando a presidente não responde (frequente), a situação fica bloqueada
+- Na prática, os hospitais raramente recusam a entrada mesmo sem autorização formal da presidente — este bloqueio é menos crítico do que parece
 
 ### 2. Email geral — sem triagem, sem responsável
 Sem triagem, sem responsável claro, com risco financeiro e legal real
