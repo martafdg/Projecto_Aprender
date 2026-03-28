@@ -11,13 +11,42 @@ A Quintinha ABC (Associação Protetora dos Animais) é um abrigo de animais sem
 ## Estrutura de Voluntariado
 
 - **Total:** ~110 voluntários registados, com atividade decrescente
-- **Modelo:** Cada dia da semana tem uma equipa dedicada com ~10 pessoas e 1+ coordenadores
+- **Modelo:** Cada dia da semana tem uma equipa dedicada com 1+ coordenadores
 - **Coordenadores** têm acesso remoto ao portão do abrigo; voluntários têm de pedir abertura por WhatsApp
 - **Véspera:** O coordenador envia a distribuição de tarefas para a equipa do dia seguinte
+- **Realidade vs. teoria:** As equipas no papel têm 6-13 pessoas por dia, mas na prática andam com 4-5 pessoas. Todas as semanas há pedidos de ajuda por falta de gente.
 - **Problemas conhecidos:**
   - Voluntários não leem os reportes diários
   - Voluntários não seguem a distribuição — fazem só o que está escrito e nada mais
   - Portão só pode ser aberto remotamente por coordenadores — cria dependência constante
+
+## Mapa de Equipas por Dia (27.03.2026)
+
+| Dia | Coordenadores | Voluntários no papel |
+|---|---|---|
+| Segunda-feira | Leonor Segurado, Rodrigo Graça | 6 |
+| Terça-feira | Ana Filipa Silva, Catarina, Bárbara | 11 |
+| Quarta-feira | Marta Vales | 7 |
+| Quinta-feira | Catarina Carvalho, Raquel Simões | 11 |
+| Sexta-feira | Mariana Tabanez | 10 |
+| Sábado | Ana Marta | 13 |
+| Domingo | Marta Guerreiro, Ana Cláudia Reis, Ângela Almeida | 11 |
+
+**Total no mapa:** 69 voluntários de abrigo (restantes ~41 são backoffice ou inativos)
+**Realidade:** equipas frequentemente com apenas 4-5 pessoas presentes.
+
+## Responsabilidades Diárias no Abrigo
+
+Cada equipa precisa de cobrir obrigatoriamente:
+- **Medicações de manhã E à noite** — incluindo uma cadela diabética com horas específicas (crítico)
+- **Canis** — limpeza e alimentação
+- **Gatil** — limpeza e alimentação
+- **Porcos e animais de quinta**
+- **Enfermaria**
+- **Espaços comuns**
+- **3 localizações adicionais** com animais fora do espaço principal
+
+Com 4-5 pessoas para cobrir todas estas áreas, a margem de segurança é zero.
 
 ---
 
@@ -51,14 +80,42 @@ A Quintinha ABC (Associação Protetora dos Animais) é um abrigo de animais sem
 
 ---
 
+## Transportes Veterinários — Situação Real
+
+- **Volume:** mínimo 10 consultas por semana
+- **Destino principal:** Hospital Veterinário Universitário da Lusófona / FMV ULisboa — em Lisboa (Palmela → Lisboa = viagem longa)
+- **Custo:** A Quintinha reembolsa despesas de viagem, mas cada vez menos voluntários querem fazer o transporte
+- **Razões da recusa:** tempo de espera nas consultas é sempre alto; viagem longa; disponibilidade durante horário laboral
+- **Urgências:** há consultas de urgência para além das programadas
+- **Impacto real:** já foram canceladas consultas por falta de voluntário disponível
+- **Tentativa de solução:** a recrutarem transportadores externos (não voluntários do abrigo) — sem sucesso até agora
+- **Equipa de gestão de transportes:** 3 pessoas — em sobrecarga crescente
+
+## Email Geral — Tipos de Emails (Situação Real)
+
+O email quintinhaabc@gmail.com recebe diariamente emails de naturezas completamente diferentes, sem triagem, sem responsável claro. Exemplos reais observados:
+
+| Categoria | Exemplo | Urgência | Equipa certa |
+|---|---|---|---|
+| **Clínica / Veterinária** | Relatório de ecografia da Clarice (anexo); survey de satisfação do Hospital FMV ULisboa | Alta | Equipa clínica |
+| **Financeiro / Legal** | DNATECH — faturas por liquidar €849,14; Pingo Doce — recibo de donativo em falta (risco de multa) | CRÍTICA | Presidente / tesouraria |
+| **Adoção / Acolhimento** | Carlos Fernandes — pedido de acolhimento/apadrinhamento de gatinho; email internacional sobre puppies abandonados; Fwd cadelinha encontrada sem chip | Alta | Equipa adoções / FATs |
+| **SIAC (microchips)** | Transferência de titularidade (Pipoca, transponder 62009780); processo de animal perdido concluído | Média | Equipa ASM / pós-adoção |
+| **Parcerias / Colaborações** | Vasco Marinho — reforço de pedido de parceria; Verónica Martins — ozonioterapia no espaço | Média | Backoffice / presidente |
+| **Agendamento** | Paula V — confirmação de horário de visita | Média | Equipa adoções |
+| **Notificações / Spam** | LinkedIn, Instagram login, Wix webinar, Kasuar (comercial) | Nenhuma | Ignorar / filtrar |
+| **Documentos internos** | Documentos de cedência e boletins | Média | Backoffice |
+
+**Problema central:** emails de urgência financeira (risco de multa), clínica (relatórios médicos) e adoção ficam misturados com spam e notificações, sem que ninguém saiba que é responsável por responder a cada um.
+
 ## Bottlenecks Conhecidos
 
 1. **Presidente** — responde pouco, é bottleneck em decisões de todo o tipo
-2. **Email geral** — único ponto de entrada para emails de hospitais, clínicas, pedidos de ajuda; sem triagem, sem responsável claro
+2. **Email geral** — único ponto de entrada para emails de hospitais, clínicas, pedidos de ajuda, faturas, parcerias e spam — sem triagem, sem responsável claro, com risco financeiro e legal real
 3. **Portão** — dependência de coordenadores disponíveis para abrir remotamente
 4. **Sócios e padrinhos** — 1 única pessoa, cartões anuais em atraso
 5. **Stock** — Google Sheets desatualizado, sem processo claro de reposição
-6. **Transportes** — pedidos crescentes sem sistema escalável
+6. **Transportes** — mínimo 10 consultas/semana, viagens longas a Lisboa, voluntários a recusar, consultas já canceladas
 
 ---
 
