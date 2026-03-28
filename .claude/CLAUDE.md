@@ -133,6 +133,28 @@ O email quintinhaabc@gmail.com recebe diariamente emails de naturezas completame
 
 ---
 
+## Quem está a liderar este processo de melhoria
+
+**Marta** — a pessoa que usa estas skills e conduz este trabalho:
+- Faz parte da equipa de **redes sociais e marketing**
+- Faz parte da equipa de **adoções**
+- Tem acesso ao **email geral** e acaba por gerir muita coisa que não tem dono claro
+- É quem faz, na prática, grande parte do **trabalho de melhoria de processos** da organização
+
+**Implicações para qualquer solução proposta:**
+- Marta já está com demasiado no colo — qualquer solução que dependa dela para funcionar é uma solução frágil
+- As pessoas estão **cansadas** — soluções complexas, com muitos passos ou que exijam mudança de comportamento grande não vão ser adotadas
+- O tempo disponível é **escasso** — quick wins concretos valem mais do que planos perfeitos
+- Toda a proposta deve responder a: **quem faz, com que esforço, e o que acontece se essa pessoa não estiver**
+
+**Critérios de avaliação de qualquer solução:**
+1. É implementável sem orçamento?
+2. Pode ser feita por 1-2 pessoas em menos de 2h?
+3. Não cria dependência de uma única pessoa para manter?
+4. As pessoas vão realmente adotar (não apenas concordar)?
+
+---
+
 ## Prioridades de Melhoria (identificadas)
 
 1. Reduzir dependência da presidente nas decisões do dia-a-dia
