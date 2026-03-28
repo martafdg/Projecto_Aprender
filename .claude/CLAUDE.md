@@ -110,12 +110,34 @@ O email quintinhaabc@gmail.com recebe diariamente emails de naturezas completame
 
 ## Bottlenecks Conhecidos
 
-1. **Presidente** — responde pouco, é bottleneck em decisões de todo o tipo
-2. **Email geral** — único ponto de entrada para emails de hospitais, clínicas, pedidos de ajuda, faturas, parcerias e spam — sem triagem, sem responsável claro, com risco financeiro e legal real
-3. **Portão** — dependência de coordenadores disponíveis para abrir remotamente
-4. **Sócios e padrinhos** — 1 única pessoa, cartões anuais em atraso
-5. **Stock** — Google Sheets desatualizado, sem processo claro de reposição
-6. **Transportes** — mínimo 10 consultas/semana, viagens longas a Lisboa, voluntários a recusar, consultas já canceladas
+### 1. Presidente — dois tipos de bloqueio distintos
+
+**Bloqueio financeiro / faturação:**
+- Todas as faturas e recibos têm de ser emitidos pela presidente — é ela a única com poder legal/administrativo para o fazer
+- O processo é manual: livro de faturas em papel
+- A empresa de contabilidade atual é má; a presidente não tem conseguido encontrar alternativa
+- Resultado: faturas e recibos ficam bloqueados durante meses
+- Marta e outra colega têm de lembrar recorrentemente a presidente de emitir faturas
+- O dinheiro existe — o problema é a ineficiência do processo de faturação e emissão de recibos
+- **Necessidade adicional:** sistema mais eficiente para lançar apelos de angariação de fundos quando há contas grandes a pagar
+
+**Bloqueio médico / urgências:**
+- A única pessoa com poder de decisão para levar um animal a uma urgência é a presidente
+- Hospitais e clínicas exigem frequentemente um email de autorização da associação para o voluntário poder dar entrada do animal
+- Na prática, a pessoa que desbloqueia situações urgentes é a **Inês** — colega que acaba por gerir as urgências mas sem poder de decisão formal
+- Isto cria uma situação de risco: Inês funciona como proxy da presidente mas sem autoridade legal para o fazer
+- Quando a presidente não responde (frequente), a situação fica bloqueada
+
+### 2. Email geral — sem triagem, sem responsável
+Sem triagem, sem responsável claro, com risco financeiro e legal real
+
+### 3. Portão — dependência de coordenadores para abertura remota
+
+### 4. Sócios e padrinhos — 1 única pessoa, cartões anuais em atraso
+
+### 5. Stock — Google Sheets desatualizado, sem processo claro de reposição
+
+### 6. Transportes — mínimo 10 consultas/semana, viagens longas a Lisboa, voluntários a recusar, consultas já canceladas
 
 ---
 
