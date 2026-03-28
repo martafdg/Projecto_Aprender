@@ -148,7 +148,7 @@ Sem triagem, sem responsável claro, com risco financeiro e legal real
 | Google Sheets | Gestão de stock |
 | Google Calendar | Consultas veterinárias agendadas |
 | WhatsApp | Toda a comunicação interna |
-| Email | Têm domínio próprio (quintinhaabc.org). Ainda em @gmail.com: quintinhaabc@gmail.com (geral), adocao.quintinhaabc@gmail.com, voluntariado.quintinhaabc@gmail.com. Restantes já usam domínio próprio. Migração do @gmail para domínio planeada mas não prioritária. Novos emails a criar devem usar domínio próprio. |
+| Email | Têm domínio próprio (quintinhaabc.org). Ainda em @gmail.com: quintinhaabc@gmail.com (geral), adocao.quintinhaabc@gmail.com, voluntariado.quintinhaabc@gmail.com. Restantes já usam domínio próprio. Migração do @gmail para domínio planeada mas não prioritária. Novos emails a criar devem usar domínio próprio. **Emails existentes no domínio:** acompanhamento.adocao@, adocao@, calendarios@ (gestão vendas calendários anuais), clinica@, divulgacao@, eventos@, geral@ (= quintinhaabc@gmail.com com reencaminhamento automático — mesma inbox), registos@ (informação a inserir no ASM — SIAC vai para aqui). **Em falta:** transportes@quintinhaabc.org. |
 | Instagram / Facebook | Comunicação externa, divulgação de animais |
 
 ---
